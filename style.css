@@ -1,0 +1,50 @@
+.bgimg{
+    background-image: url('https://res.cloudinary.com/dswzta8jh/image/upload/v1674652035/wallpapersden.com_lucifer-season-5_2560x1440_pijkbx.jpg');
+    background-size: cover;
+    height: 160vh;
+}
+.imglogo{
+    height: 40px;
+    pa: 20px;
+}
+.head11{
+    padding-top: 300px;
+    padding-left: 30px;
+    font-size: 150px;
+    font-family: Aboreto;
+    color: red;
+    
+}
+.head22{
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: rgba(210, 217, 217, 0.78);
+}
+.head33{
+    font-size: 40px;
+    padding-left: 30px;
+    color: rgba(255, 255, 255, 0.99);
+    
+}
+.paratext{
+    font-size: 30px;
+    padding-left: 30px;
+    font-family: sans-serif;
+    color: white;
+}
+.seasons{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.streamtxt{
+    font-size: 80px;
+    font-family: fantasy;
+    padding-left: 30px;
+    padding-top: 50px;
+    color: red;
+}
+.butn{
+    margin: 20px;
+    height: 40px;
+    width: 20vh;
+}
